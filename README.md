@@ -14,4 +14,5 @@ Contents:
 7. Plotting and Visualization
 8. Data Aggregation
 9. Time Series
-10. Data Analysis
+10. Modeling Libraries in Python
+11. Data Analysis
